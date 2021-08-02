@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703146586633",
+    "project_id": "flutter-meapp-7263",
+    "storage_bucket": "flutter-meapp-7263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703146586633:android:6406c4e71ba3741b6e3ed8",
+        "android_client_info": {
+          "package_name": "com.techsirius.meapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703146586633-6jigrtf15bdvm9p9tk2eltdqelph009a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLEC8tPvyVpM-gpVgdEq6ob9JKGD6SShA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703146586633-6jigrtf15bdvm9p9tk2eltdqelph009a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
